@@ -1,0 +1,5 @@
+.venv/
+venv/
+.vvp/
+.idea/
+src/.ipynb_checkpoints/*
