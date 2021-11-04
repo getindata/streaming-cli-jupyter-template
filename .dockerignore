@@ -6,3 +6,4 @@ requirements.txt
 docker-compose.yml
 Dockerfile
 src/.ipynb_checkpoints/*
+src/*.ipynb
